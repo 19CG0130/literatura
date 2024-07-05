@@ -1,4 +1,7 @@
 # 📚 Literatura - Aplicación de Consola
+<p align="center">
+  <img src="https://github.com/19CG0130/literatura/assets/71781378/053f8c03-b198-483d-ae5b-1df96326b48e">
+</p>
 
 Este proyecto es parte del **Challenge ONE** y consiste en una aplicación de consola que permite gestionar una biblioteca digital de libros, autores y géneros literarios.
 
